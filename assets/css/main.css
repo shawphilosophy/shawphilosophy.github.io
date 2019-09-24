@@ -30,6 +30,13 @@
 		list-style: none;
 	}
 
+blockquote {
+    font-size: 10pt;
+font-style: normal !important;
+font-weight: normal;
+    line-height: 1.5;
+    position: relative; }
+
 	blockquote, q {
 		quotes: none;
 	}
