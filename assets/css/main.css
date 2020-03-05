@@ -1558,7 +1558,7 @@ font-weight: normal;
 /* Basic */
 
 	body {
-		background: #fff;
+		background:#F0F5F5;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
