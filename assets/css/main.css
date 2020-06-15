@@ -1968,6 +1968,12 @@ font-weight: normal;
 		}
 
 /* Icon */
+	
+	.ai {
+		text-decoration: none;
+		border-bottom: none;
+		position: relative;
+	}
 
 	.icon {
 		text-decoration: none;
