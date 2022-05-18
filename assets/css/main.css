@@ -2583,7 +2583,7 @@ font-weight: normal;
 		}
 
 		#header strong, #header b {
-			color: #000000;
+			color: #FFFFFF;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -2591,7 +2591,7 @@ font-weight: normal;
 		}
 
 		#header h1 {
-			color: #000000;
+			color: #FFFFFF;
 			font-family: 'DM Serif Display', serif;
 			font-size: 1.55em;
 			line-height: 1.75em;
