@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Serif+Text:ital@0;1&family=Source+Sans+Pro:ital@0;1&display=swap");<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+@import url("https://fonts.googleapis.com/css?family=Gothic+A1:500,500italic,700,700italic");<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 /*
 	Strata by HTML5 UP
 	html5up.net | @ajlkn
@@ -1572,11 +1572,12 @@ font-weight: normal;
 		}
 
 	body, input, select, textarea {
-		color: #000000;
-		font-family: 'Source Sans Pro', serif, Helvetica, sans-serif;
+		color: #A5A4A4;
+		font-family: 'Gothic A1', sans-serif;
 		font-size: 16pt;
-		font-weight: 400;
+		font-weight: 500;
 		line-height: 1.60em;
+	  letter-spacing: 0.075rem;
 	}
 
 	a {
@@ -1585,7 +1586,7 @@ font-weight: normal;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 
-		color: #2c2cec;
+		color: #6961F3;
 		text-decoration: none;
 
 	}
@@ -1596,9 +1597,8 @@ font-weight: normal;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 
-		color: #2c2cec;
+		color: #6961F3;
 		text-decoration: none;
- 	   box-shadow: inset 0px -7.5px 0px #CBF8DF;
 
 	}
 
@@ -1607,8 +1607,7 @@ font-weight: normal;
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-
-		color: #000000;
+		color: #6961F3;
 		text-decoration: none;
  	   box-shadow: inset 0px -12.5px 0px #CBF8DF;
 
@@ -1622,7 +1621,7 @@ font-weight: normal;
 		}
 
 	strong, b {
-		color: #000000;
+		color: #A5A4A4;
 		font-weight: 500;
 	}
 
@@ -1635,8 +1634,9 @@ font-weight: normal;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #000000;
-		font-weight: 400;
+		font-family: 'Gothic A1', serif;
+		color: #A5A4A4;
+		font-weight: 500;
 		line-height: 1em;
 		margin: 0 0 1em 0;
 
@@ -1649,6 +1649,8 @@ font-weight: normal;
 		}
 
 	h1 {
+		font-family: 'Gothic A1', san-serif;
+		color: #A5A4A4;
 		font-size: 2em;
 		line-height: 1.5em;
 
@@ -1657,20 +1659,25 @@ font-weight: normal;
 	}
 
 	h2 {
-		font-family: 'DM Serif Display', serif;
-		font-size: 1.5em;
+		font-family: 'Gothic A1', san-serif;
+		font-size: 1.1em;
 		line-height: 1em;
+		color: #6961F3;
+	
 	
 	}
 
 	h3 {
-		font-size: 1.25em;
+		font-size: 1.1em;
 		line-height: 1.5em;
+		color: #6961F3;
+
 	}
 
 	h4 {
 		font-size: 1.1em;
 		line-height: 1.5em;
+		color: #6961F3;
 	}
 
 	h5 {
@@ -2583,17 +2590,18 @@ font-weight: normal;
 		}
 
 		#header strong, #header b {
-			color: #FFFFFF;
+			color: #6961F3;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #000000;
+			color: #A5A4A4;
 		}
 
 		#header h1 {
-			color: #FFFFFF;
-			font-family: 'DM Serif Display', serif;
-			font-size: 1.55em;
+			color: #A5A4A4;
+			font-family: 'Gothic A1'
+ 			letter-spacing: 0.075rem;
+			font-size: 1.3em;
 			line-height: 1.75em;
 			margin: 0;
 		}
