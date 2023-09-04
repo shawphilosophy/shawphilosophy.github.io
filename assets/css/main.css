@@ -1586,7 +1586,7 @@ font-weight: normal;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 
-		color: #6ec49f;
+		color: #56bf92;
 		text-decoration: none;
 
 	}
@@ -1596,9 +1596,9 @@ font-weight: normal;
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-
-		color: #6ec49f;
-		text-decoration: none;
+		border-bottom: dotted 0.5px;
+		color: #56bf92;
+	text-decoration: none;
 
 	}
 
@@ -1607,7 +1607,7 @@ font-weight: normal;
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		color: #6ec49f;
+		color: #56bf92;
 		text-decoration: none;
  	   box-shadow: inset 0px -12.5px 0px #CBF8DF;
 
@@ -1662,7 +1662,7 @@ font-weight: normal;
 		font-family: 'Gothic A1', san-serif;
 		font-size: 1.1em;
 		line-height: 1em;
-		color: #6ec49f;
+		color: #56bf92;
 	
 	
 	}
@@ -1670,14 +1670,14 @@ font-weight: normal;
 	h3 {
 		font-size: 1.1em;
 		line-height: 1.5em;
-		color: #6ec49f;
+		color: #56bf92;
 
 	}
 
 	h4 {
 		font-size: 1.1em;
 		line-height: 1.5em;
-		color: #6ec49f;
+		color: #56bf92;
 	}
 
 	h5 {
@@ -2590,7 +2590,7 @@ font-weight: normal;
 		}
 
 		#header strong, #header b {
-			color: #6ec49f;
+			color: #56bf92;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
