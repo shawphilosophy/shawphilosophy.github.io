@@ -23,7 +23,24 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 		
 		
-		
+	    <style>
+        body {
+            animation: fadeInAnimation ease 2s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+        }
+        @keyframes fadeInAnimation {
+            0% {
+                opacity: 0;
+ transform: translate3d(0, 30px, 0);
+            }
+            100% {
+                opacity: 1;
+  transform: translate3d(0, 0, 0);
+
+            }
+        }
+    </style>	
 	</head>
 	
 	<body id="top">
