@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+@import url(https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 /*
 	Strata by HTML5 UP
 	html5up.net | @ajlkn
@@ -1624,6 +1624,11 @@ font-weight: normal;
 		font-weight: 500;
 	}
 
+	stronger {
+		color: #3b3b3b;
+		font-weight: 750;
+	}
+
 	em, i {
 		font-style: italic;
 	}
@@ -1648,7 +1653,7 @@ font-weight: normal;
 		}
 
 	h1 {
-		font-family: 'PT Serif',  
+		font-family: 'PT Sans', san-serif;
 		color: #A5A4A4;
 		font-size: 2em;
 		line-height: 1.5em;
@@ -1674,8 +1679,9 @@ font-weight: normal;
 	}
 
 	h4 {
-		font-size: 1.1em;
-		line-height: 1.5em;
+		font-family: 'PT Sans', san-serif;
+		font-size: 1.15em;
+		line-height: 1em;
 		color: #141414;
 	}
 
@@ -2600,7 +2606,7 @@ font-weight: normal;
 			color: #A5A4A4;
 			font-family: 'PT Serif'
  			letter-spacing: 0.075rem;
-			font-size: 1.3em;
+			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
 		}
